@@ -1,11 +1,11 @@
 {
-    "name": "wod_plus_app",
-    "short_name": "wod_plus_app",
+    "name": "Wod Plus",
+    "short_name": "Wod Plus",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#101438",
+    "theme_color": "#101438",
+    "description": "Wod Plus - workout app for iPhone, Android, and web.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
